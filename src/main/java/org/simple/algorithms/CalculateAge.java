@@ -1,4 +1,4 @@
-package org.example;
+package org.simple.algorithms;
 
 import java.util.Calendar;
 import java.util.Date;
